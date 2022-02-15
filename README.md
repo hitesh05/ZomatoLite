@@ -1,5 +1,5 @@
 # ZomatoLite
-Web Apllication using MERN Stack
+Web Application using MERN Stack
 
 A Food order portal built as an assginment for the course Design and Analysis of Software Systems. The App is built with MERN stack. It has two views :
 
